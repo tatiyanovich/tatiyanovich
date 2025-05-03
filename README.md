@@ -4,7 +4,7 @@
 I am a Unity Developer and a student at V. N. Karazin National University.
 Over the course of my journey, I've honed a diverse set of skills, including:
 
-📌**Unity & C#** 4 years experience 
+📌**Unity & C#**: 4 years experience 
 
 📌**ECS:** Entitas, Photon Quantum
 
