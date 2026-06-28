@@ -1,5 +1,5 @@
 # 🧑‍🦱 About me:
-👋 Hello! I am Egor Babaev.
+👋 Hello! I am Yehor Babaiev.
 
 I am a Unity Developer.
 Over the course of my journey, I've honed a diverse set of skills, including:
