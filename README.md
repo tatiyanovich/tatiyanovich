@@ -45,7 +45,7 @@ Pet project, team lead and core developer. Online PvP brawler: deterministic com
 
 ## 💼 Earlier work
 
-- **Plarium Ukraine LLC · Unity Developer · Jun 2025 - Oct 2026**
+- **Plarium · Unity Developer · Jun 2025 - Oct 2026**
 - **Hidden Lake Games:** visual novels and idle games on mobile ([iOS](https://apps.apple.com/us/developer/hidden-lake-games-llc/id1614076542), [Android](https://play.google.com/store/apps/dev?id=7450899111647945202)). Co-built [Rise of Riches: Idle Tycoon](https://play.google.com/store/apps/details?id=com.hiddenlake.bankclicker) in 1.5 months.
 - **Octo Games (Team Lead, 6 developers):** visual novels on Steam ([curator 1](https://store.steampowered.com/curator/41338556), [curator 2](https://store.steampowered.com/curator/44358675)). Quest plugin used in 30+ titles.
 - **Realis Network:** [Crypto Cats](https://play.google.com/store/apps/details?id=com.soul.merge.cat.cute.simulator.adventure) and [Crypto Dragons](https://play.google.com/store/apps/details?id=com.dragons.tokens.crypto), 1M+ downloads each. Rewrote the game on Entitas ECS (−30% CPU).
