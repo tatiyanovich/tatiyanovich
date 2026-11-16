@@ -29,7 +29,7 @@ Pet project, team lead and core developer. Online PvP brawler: deterministic com
 
 ## 🤖 How I use AI
 
-- **Claude Code and Codex agents** under repo rules (`CLAUDE.md`, `AGENTS.md`), ECS scaffolding skills and review subagents. On Mining Drill this gave ~200 commits, ~40k lines of C# and a ~47k-line Python balance model in 4 months as a side project.
+- **Claude Code and Codex agents** under repo rules (`CLAUDE.md`, `AGENTS.md`), ECS scaffolding skills and review subagents. On Mining Drill this gave ~200 commits, ~40k lines of C# and a ~47k-line Python balance model in 2 months as a side project.
 - **Unity MCP:** agents create prefabs, wire ScriptableObjects and Addressables and run Play Mode, so editor work needs no manual checklist.
 - **Quality gates:** every Player build runs the EditMode suite (158 checks). Generated code passes the same review and tests as handwritten code.
 - **Agent-run playtesting:** an autopilot bot, telemetry and Monte Carlo sweeps replace manual balance passes.
