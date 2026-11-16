@@ -15,7 +15,7 @@
 <td width="50%" valign="top">
 <a href="https://github.com/tatiyanovich/mining-drill-showcase"><img src="https://raw.githubusercontent.com/tatiyanovich/mining-drill-showcase/main/media/refine.gif" alt="Mining Drill"></a>
 <h3><a href="https://github.com/tatiyanovich/mining-drill-showcase">Mining Drill</a></h3>
-Pet project, team lead and core developer. Plinko refinery, procedural world, agent-driven balance pipeline, trailer pipeline.<br>
+Pet project. Plinko refinery, procedural world, agent-driven balance pipeline, trailer pipeline.<br>
 <sub>Unity 6 · Entitas · Zenject · UniTask · URP</sub>
 </td>
 <td width="50%" valign="top">
